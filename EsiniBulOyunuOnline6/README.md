@@ -1,1 +1,0 @@
-﻿This project is created with Windows Forms App.
